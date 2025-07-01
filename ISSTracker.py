@@ -8,7 +8,7 @@ MY_LAT =  32.795599
 MY_LONG = -117.251172
 
 my_email = "pythoncourse155@gmail.com"
-my_password = "xxim kydp aala ehih"
+my_password = 
 
 
 # create a function to detect if the ISS is close to my current location
